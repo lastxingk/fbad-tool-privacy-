@@ -2,7 +2,7 @@
   发布前请替换以下 3 处占位符（本注释不会显示在网页上）：
     [公司名称]  -> 你们公司的名称
     [联系邮箱]  -> 一个能真正收到邮件的地址（Meta 审核会看）
-    [生效日期]  -> 发布日期，如 2026-08-18
+    2026-08-18  -> 发布日期，如 2026-08-18
 -->
 
 # 隐私政策 / Privacy Policy
@@ -11,11 +11,11 @@
 
 ## 中文版
 
-**生效日期：[生效日期]**
+**生效日期：2026-08-18**
 
 ### 1. 关于本工具
 
-本工具是 [公司名称] 内部使用的 Facebook 广告投放管理系统，仅供本公司广告投放人员使用，不面向公众开放，不提供注册。
+本工具是 本工具运营方内部使用的 Facebook 广告投放管理系统，仅供本公司广告投放人员使用，不面向公众开放，不提供注册。
 
 ### 2. 我们收集的信息
 
@@ -42,7 +42,7 @@
 ### 4. 信息的存储与保护
 
 - 访问令牌采用 AES-GCM 算法加密后存储，不以明文形式保存于数据库或日志中
-- 数据存储于 [公司名称] 控制的服务器，仅授权人员可以访问
+- 数据存储于本工具运营方控制的服务器，仅授权人员可以访问
 - 系统运行日志不记录访问令牌、应用密钥等敏感信息
 
 ### 5. 信息共享
@@ -73,11 +73,11 @@
 
 ## English Version
 
-**Effective Date: [生效日期]**
+**Effective Date: 2026-08-18**
 
 ### 1. About This Tool
 
-This tool is an internal Facebook advertising management system operated by [公司名称]. It is used exclusively by our own advertising staff, is not open to the public, and does not accept public registration.
+This tool is an internal Facebook advertising management system operated by its operator. It is used exclusively by our own advertising staff, is not open to the public, and does not accept public registration.
 
 ### 2. Information We Collect
 
@@ -104,7 +104,7 @@ We do **not** use this information for any other purpose.
 ### 4. Storage and Protection
 
 - Access tokens are encrypted with AES-GCM before storage and are never written to the database or logs in plaintext
-- Data is stored on servers controlled by [公司名称] and is accessible only to authorized personnel
+- Data is stored on servers controlled by the operator and is accessible only to authorized personnel
 - Application logs do not record access tokens, application secrets, or other sensitive credentials
 
 ### 5. Information Sharing
