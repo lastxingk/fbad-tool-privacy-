@@ -1,7 +1,7 @@
 <!--
   发布前请替换以下 3 处占位符（本注释不会显示在网页上）：
     [公司名称]  -> 你们公司的名称
-    [联系邮箱]  -> 一个能真正收到邮件的地址（Meta 审核会看）
+    联系邮箱已设置为 yangwork2324@gmail.com
     2026-08-18  -> 发布日期，如 2026-08-18
 -->
 
@@ -59,7 +59,7 @@
 如需删除与你的 Facebook 账号相关的全部数据，可通过以下任一方式：
 
 1. **在 Facebook 端撤销授权**：前往 Facebook「设置与隐私」→「设置」→「应用和网站」，找到本应用并移除。撤销后本工具将无法继续访问你的任何数据。
-2. **联系我们删除已存储数据**：发送邮件至 **[联系邮箱]**，注明你的 Facebook 用户名或用户标识，我们将在收到请求后 30 日内删除相关数据并回复确认。
+2. **联系我们删除已存储数据**：发送邮件至 **yangwork2324@gmail.com**，注明你的 Facebook 用户名或用户标识，我们将在收到请求后 30 日内删除相关数据并回复确认。
 
 ### 8. 政策变更
 
@@ -67,7 +67,7 @@
 
 ### 9. 联系方式
 
-如对本政策有任何疑问，请联系：**[联系邮箱]**
+如对本政策有任何疑问，请联系：**yangwork2324@gmail.com**
 
 ---
 
@@ -121,7 +121,7 @@ We do **not** sell, rent, or otherwise disclose any of this information to third
 To delete all data associated with your Facebook account, you may either:
 
 1. **Revoke access on Facebook**: go to Settings & Privacy → Settings → Apps and Websites, locate this application, and remove it. Once revoked, this tool can no longer access any of your data.
-2. **Request deletion of stored data**: email **[联系邮箱]** with your Facebook username or user ID. We will delete the associated data and confirm within 30 days of receiving your request.
+2. **Request deletion of stored data**: email **yangwork2324@gmail.com** with your Facebook username or user ID. We will delete the associated data and confirm within 30 days of receiving your request.
 
 ### 8. Changes to This Policy
 
@@ -129,4 +129,4 @@ If this policy is updated, the revised version will be published on this page wi
 
 ### 9. Contact
 
-For questions about this policy, contact: **[联系邮箱]**
+For questions about this policy, contact: **yangwork2324@gmail.com**
