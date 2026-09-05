@@ -1,21 +1,14 @@
-<!--
-  发布前请替换以下 3 处占位符（本注释不会显示在网页上）：
-    [公司名称]  -> 你们公司的名称
-    联系邮箱已设置为 yangwork2324@gmail.com
-    2026-08-18  -> 发布日期，如 2026-08-18
--->
-
 # 隐私政策 / Privacy Policy
 
 
 
 ## 中文版
 
-**生效日期：2026-08-18**
+**生效日期：2026-09-05**
 
 ### 1. 关于本工具
 
-本工具是 本工具运营方内部使用的 Facebook 广告投放管理系统，仅供本公司广告投放人员使用，不面向公众开放，不提供注册。
+CPCKit（Meta应用名称：ad-tool）是由 Peer Voices Of Los Angeles 提供的 Facebook 广告管理工具，供管理员开通账号的内部广告投放团队使用，不提供公众注册。Peer Voices Of Los Angeles 是本工具的数据控制方，所在地为美国。
 
 ### 2. 我们收集的信息
 
@@ -33,7 +26,7 @@
 
 上述信息仅用于以下用途：
 
-- 在统一界面中展示使用者所管理的广告账户及其投放数据
+- 在统一界面中展示使用者所管理的广告账户及其投放数据，并在授权范围内按配置自动同步数据
 - 按使用者的操作对广告进行调整（如调整预算、开启或暂停投放）
 - 在投放数据触发预设条件时向使用者发出提示
 
@@ -42,12 +35,12 @@
 ### 4. 信息的存储与保护
 
 - 访问令牌采用 AES-GCM 算法加密后存储，不以明文形式保存于数据库或日志中
-- 数据存储于本工具运营方控制的服务器，仅授权人员可以访问
+- 数据存储于Peer Voices Of Los Angeles控制的服务器，仅授权人员可以访问
 - 系统运行日志不记录访问令牌、应用密钥等敏感信息
 
 ### 5. 信息共享
 
-我们**不会**将上述任何信息出售、出租或提供给任何第三方。信息仅在本工具内部使用。
+我们不出售或出租 Meta 平台数据。OVH 为本项目提供部署服务器，本工具使用其位于加拿大的服务器存储运行所需的数据。使用托管服务不代表向第三方提供数据用于独立广告或分析业务。
 
 ### 6. 信息保留期限
 
@@ -56,10 +49,10 @@
 
 ### 7. 如何删除你的数据
 
-如需删除与你的 Facebook 账号相关的全部数据，可通过以下任一方式：
+撤销 Facebook 授权用于停止本工具后续通过该授权访问数据，不等于自动删除已经存储的数据。
 
-1. **在 Facebook 端撤销授权**：前往 Facebook「设置与隐私」→「设置」→「应用和网站」，找到本应用并移除。撤销后本工具将无法继续访问你的任何数据。
-2. **联系我们删除已存储数据**：发送邮件至 **yangwork2324@gmail.com**，注明你的 Facebook 用户名或用户标识，我们将在收到请求后 30 日内删除相关数据并回复确认。
+1. **撤销授权**：在 Facebook 的应用或业务集成设置中找到本应用并移除。
+2. **删除已存储数据**：发送请求至 **yangwork2324@gmail.com**，提供用于定位授权的 Facebook 用户名或用户标识。我们将在收到请求后 **30 日内**删除相关数据并回复确认。请勿发送密码或访问令牌。
 
 ### 8. 政策变更
 
@@ -73,11 +66,11 @@
 
 ## English Version
 
-**Effective Date: 2026-08-18**
+**Effective Date: 2026-09-05**
 
 ### 1. About This Tool
 
-This tool is an internal Facebook advertising management system operated by its operator. It is used exclusively by our own advertising staff, is not open to the public, and does not accept public registration.
+CPCKit (Meta app name: ad-tool) is a Facebook advertising management tool provided by Peer Voices Of Los Angeles for internal advertising teams with administrator-provisioned accounts. It does not offer public registration. Peer Voices Of Los Angeles is the data controller for this tool and is located in the United States.
 
 ### 2. Information We Collect
 
@@ -95,7 +88,7 @@ This tool does **not** collect friend lists, private messages, or personal photo
 
 The information above is used only to:
 
-- Display the user's ad accounts and performance data in a unified interface
+- Display the user's ad accounts and performance data in a unified interface and synchronize data automatically as configured within the authorized scope
 - Apply changes the user initiates (such as adjusting budgets or pausing delivery)
 - Notify the user when performance data meets predefined conditions
 
@@ -104,12 +97,12 @@ We do **not** use this information for any other purpose.
 ### 4. Storage and Protection
 
 - Access tokens are encrypted with AES-GCM before storage and are never written to the database or logs in plaintext
-- Data is stored on servers controlled by the operator and is accessible only to authorized personnel
+- Data is stored on servers controlled by Peer Voices Of Los Angeles and is accessible only to authorized personnel
 - Application logs do not record access tokens, application secrets, or other sensitive credentials
 
 ### 5. Information Sharing
 
-We do **not** sell, rent, or otherwise disclose any of this information to third parties. It is used solely within this tool.
+We do not sell or rent Meta Platform Data. OVH provides the server on which this project is deployed, and the tool stores the data needed for its operation on that server in Canada. The use of hosting services does not mean that data is provided to third parties for independent advertising or analytics purposes.
 
 ### 6. Data Retention
 
@@ -118,10 +111,10 @@ We do **not** sell, rent, or otherwise disclose any of this information to third
 
 ### 7. How to Delete Your Data
 
-To delete all data associated with your Facebook account, you may either:
+Revoking Facebook authorization stops further access through that authorization; it does not automatically delete data already stored by the tool.
 
-1. **Revoke access on Facebook**: go to Settings & Privacy → Settings → Apps and Websites, locate this application, and remove it. Once revoked, this tool can no longer access any of your data.
-2. **Request deletion of stored data**: email **yangwork2324@gmail.com** with your Facebook username or user ID. We will delete the associated data and confirm within 30 days of receiving your request.
+1. **Revoke authorization**: locate and remove this app in Facebook’s app or business integration settings.
+2. **Request deletion of stored data**: email **yangwork2324@gmail.com** with the Facebook username or user ID needed to locate the authorization. We will delete the associated data and reply with confirmation within **30 days** of receiving the request. Do not send passwords or access tokens.
 
 ### 8. Changes to This Policy
 
