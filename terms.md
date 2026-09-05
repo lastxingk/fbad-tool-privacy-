@@ -1,12 +1,12 @@
 # 服务条款 / Terms of Service
 
-**生效日期 / Effective Date: 2026-08-18**
+**生效日期 / Effective Date: 2026-09-05**
 
 ## 中文版
 
 ### 1. 适用范围
 
-本服务条款适用于本工具（Facebook 广告投放管理系统，以下简称"本工具"）的使用。本工具由其运营方内部开发并使用，仅供其广告投放人员使用，不向公众开放，不提供公开注册。
+本服务条款适用于 CPCKit（Meta应用名称：ad-tool，以下简称“本工具”）。本工具由 Peer Voices Of Los Angeles 提供，供管理员开通账号的内部广告投放团队使用，不提供公众注册。
 
 ### 2. 使用授权
 
@@ -24,7 +24,7 @@
 
 ### 5. 服务变更与终止
 
-运营方可能随时修改、暂停或终止本工具的全部或部分功能，恕不另行通知。使用者的授权可随时被撤销。
+Peer Voices Of Los Angeles 可能随时修改、暂停或终止本工具的全部或部分功能，恕不另行通知。使用者的授权可随时被撤销。
 
 ### 6. 免责声明
 
@@ -40,7 +40,7 @@
 
 ### 1. Scope
 
-These Terms of Service govern the use of this tool (a Facebook advertising management system, the "Tool"). The Tool is developed and operated internally by its operator for the exclusive use of its own advertising staff. It is not open to the public and does not accept public registration.
+These Terms of Service govern CPCKit (Meta app name: ad-tool, the “Tool”). The Tool is provided by Peer Voices Of Los Angeles for internal advertising teams with administrator-provisioned accounts. It does not offer public registration.
 
 ### 2. Authorization
 
@@ -58,7 +58,7 @@ For details on how data is collected, used, and protected, see the [Privacy Poli
 
 ### 5. Changes and Termination
 
-The operator may modify, suspend, or terminate any or all functionality of the Tool at any time without prior notice. User authorizations may be revoked at any time.
+Peer Voices Of Los Angeles may modify, suspend, or terminate any or all functionality of the Tool at any time without prior notice. User authorizations may be revoked at any time.
 
 ### 6. Disclaimer
 
